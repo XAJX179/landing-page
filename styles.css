@@ -65,7 +65,10 @@ footer{
 }
 
 /* misc */
-.Header p,.upper h1,.upper p{
+.Header p{
+    margin: 16px 0px;
+}
+.upper h1,.upper p{
     padding: 0;
     margin: 0;
 }
